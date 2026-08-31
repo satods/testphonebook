@@ -1,0 +1,3158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AddressBook>
+	<pbgroup>
+		<id>1</id>
+		<name>Blacklist</name>
+	</pbgroup>
+	<pbgroup>
+		<id>45</id>
+		<name>外線</name>
+		<ringtones>ring2.ogg</ringtones>
+	</pbgroup>
+	<pbgroup>
+		<id>46</id>
+		<name>内線</name>
+		<ringtones>ring1.ogg</ringtones>
+	</pbgroup>
+	<pbgroup>
+		<id>47</id>
+		<name>GIAP</name>
+		<ringtones>ring4.ogg</ringtones>
+	</pbgroup>
+	<pbgroup>
+		<id>48</id>
+		<name>NSキャピタル</name>
+		<ringtones>ring5.ogg</ringtones>
+	</pbgroup>
+	<pbgroup>
+		<id>49</id>
+		<name>NSフーズ</name>
+		<ringtones>ring6.ogg</ringtones>
+	</pbgroup>
+	<pbgroup>
+		<id>50</id>
+		<name>401玄関用</name>
+		<ringtones>ring3.ogg</ringtones>
+	</pbgroup>
+	<Contact>
+		<id>2081</id>
+		<FirstName>3gokan2F</FirstName>
+		<LastName>3号館2階</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>351</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2082</id>
+		<FirstName>DXsuishin1</FirstName>
+		<LastName>DX推進1</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>342</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2083</id>
+		<FirstName>NEXCOhigashinihon</FirstName>
+		<LastName>NEXCO東日本 水戸工事</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0292533000</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2084</id>
+		<FirstName>NSCfukushima</FirstName>
+		<LastName>NSC 福島支店</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0245631189</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2085</id>
+		<FirstName>NSCmito</FirstName>
+		<LastName>NSC 水戸支店</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0292430015</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2086</id>
+		<FirstName>NSCsaitama</FirstName>
+		<LastName>NSC 埼玉支社</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>05055311747</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2087</id>
+		<FirstName>NSCtohoku</FirstName>
+		<LastName>NSC 東北支社</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>05058144959</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2088</id>
+		<FirstName>NScapital</FirstName>
+		<LastName>NSキャピタル</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>512</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>48</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2089</id>
+		<FirstName>NSfoods</FirstName>
+		<LastName>NSフーズ</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>513</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>49</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2090</id>
+		<FirstName>SECOMibaraki</FirstName>
+		<LastName>SECOM茨城統轄支社</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0292216645</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2091</id>
+		<FirstName>SECOMmoriya</FirstName>
+		<LastName>SECOM守谷営業所</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0297463566</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2092</id>
+		<FirstName>SECOMtsukuba</FirstName>
+		<LastName>SECOMつくば支社</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0298556005</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2093</id>
+		<FirstName>STC semmu</FirstName>
+		<LastName>STC 専務</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>811</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2094</id>
+		<FirstName>STC yamashita</FirstName>
+		<LastName>STC 山下</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>812</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2095</id>
+		<FirstName>STC8F 1</FirstName>
+		<LastName>STC8F 1</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>822</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2096</id>
+		<FirstName>TPsokuryosekkei</FirstName>
+		<LastName>TP測量設計</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0276578333</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2097</id>
+		<FirstName>TTC entrance</FirstName>
+		<LastName>TTC 玄関</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>401</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>50</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2098</id>
+		<FirstName>TTC ishitsuka</FirstName>
+		<LastName>TTC 石塚</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>423</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2099</id>
+		<FirstName>TTC refresh room</FirstName>
+		<LastName>TTC リフレッシュ室</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>403</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2100</id>
+		<FirstName>TTC semmu</FirstName>
+		<LastName>TTC 専務</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>410</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2101</id>
+		<FirstName>TTC training room</FirstName>
+		<LastName>TTC トレーニング室</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>402</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2102</id>
+		<FirstName>abetakashi</FirstName>
+		<LastName>阿部（孝）</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>813</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2103</id>
+		<FirstName>arakawajoryukasen</FirstName>
+		<LastName>国交省 荒上 経理課</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0492466372</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2104</id>
+		<FirstName>arakawajoryukasen</FirstName>
+		<LastName>国交省 荒下 沿線再開発課</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0339023221</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2105</id>
+		<FirstName>arakawajoryukasen</FirstName>
+		<LastName>国交省 荒下 経理課</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0339022313</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2106</id>
+		<FirstName>ashikagaginko</FirstName>
+		<LastName>足利銀行　下館支店</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0296240111</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2107</id>
+		<FirstName>bandoshiyakusho</FirstName>
+		<LastName>坂東市役所</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0297352121</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2108</id>
+		<FirstName>bigvan</FirstName>
+		<LastName>ビッグバン</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0338512227</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2109</id>
+		<FirstName>chibasokuki</FirstName>
+		<LastName>千葉測器　土浦営業所</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0298265301</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2110</id>
+		<FirstName>chikuseidobokujimu</FirstName>
+		<LastName>筑西土木事務所総務課</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0296249252</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2111</id>
+		<FirstName>chikuseishiyakusho</FirstName>
+		<LastName>筑西市役所</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0296242111</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2112</id>
+		<FirstName>chukaigishitsu</FirstName>
+		<LastName>中会議室</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>204</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2113</id>
+		<FirstName>daieisokuryosekkei</FirstName>
+		<LastName>大栄測量設計</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0298330081</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2114</id>
+		<FirstName>edogawakasen</FirstName>
+		<LastName>国交省 江戸川 経理課</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0471257312</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2115</id>
+		<FirstName>edogawakasen</FirstName>
+		<LastName>国交省 江戸川 工務第一課</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0471257315</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2116</id>
+		<FirstName>edogawakasen</FirstName>
+		<LastName>国交省 江戸川 工務第二課</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0471257340</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2117</id>
+		<FirstName>edogawakasen</FirstName>
+		<LastName>国交省 江戸川 調査課</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0471257317</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2118</id>
+		<FirstName>eigyo  car7326</FirstName>
+		<LastName>営業部サクシード【7326】</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>09045838141</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2119</id>
+		<FirstName>eigyo1</FirstName>
+		<LastName>営業1</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>244</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2120</id>
+		<FirstName>eigyo2</FirstName>
+		<LastName>営業2</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>245</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2121</id>
+		<FirstName>fujihashimiwa</FirstName>
+		<LastName>藤橋　美和　携帯</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>09045843155</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2122</id>
+		<FirstName>fujizerox hoshu</FirstName>
+		<LastName>富士ゼロックス保守</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0120069114</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2123</id>
+		<FirstName>fukushima1</FirstName>
+		<LastName>福島1</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>833</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2124</id>
+		<FirstName>fukushima2</FirstName>
+		<LastName>福島2</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>834</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2125</id>
+		<FirstName>fukushima3</FirstName>
+		<LastName>福島3</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>835</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2126</id>
+		<FirstName>fukushima4</FirstName>
+		<LastName>福島4</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>836</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2127</id>
+		<FirstName>fukushimayamashita</FirstName>
+		<LastName>福島 山下</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>830</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2128</id>
+		<FirstName>fureaijohotsushim</FirstName>
+		<LastName>ふれあい情報通信網 関東支社</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0297206075</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2129</id>
+		<FirstName>hayase</FirstName>
+		<LastName>早瀬</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>242</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2130</id>
+		<FirstName>hayashi</FirstName>
+		<LastName>林</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>341</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2131</id>
+		<FirstName>hellowork joso</FirstName>
+		<LastName>ハローワーク常総</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0297228609</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2132</id>
+		<FirstName>hitachikasenkokudo</FirstName>
+		<LastName>国交省 常陸 経理課</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0292404062</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2133</id>
+		<FirstName>hitachikasenkokudo</FirstName>
+		<LastName>国交省 常陸 調査第一課</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0292404069</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2134</id>
+		<FirstName>hitachikasenkokudo</FirstName>
+		<LastName>国交省 常陸 工務第一課</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0292404065</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2135</id>
+		<FirstName>hitachiotakoji</FirstName>
+		<LastName>常陸太田工事契約用地課</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0294803360</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2136</id>
+		<FirstName>hokotakoji</FirstName>
+		<LastName>鉾田工事事務所契約用地課</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0291332141</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2137</id>
+		<FirstName>homejoy ishige</FirstName>
+		<LastName>ホームジョイ本田　石下店</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0297308888</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2138</id>
+		<FirstName>homukyokukoga</FirstName>
+		<LastName>法務局　古河</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0280220295</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2139</id>
+		<FirstName>homukyokushimotsum</FirstName>
+		<LastName>法務局　下妻</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0296433935</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2140</id>
+		<FirstName>homukyokutsuchiura</FirstName>
+		<LastName>法務局　土浦</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0298210783</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2141</id>
+		<FirstName>honsha terakado</FirstName>
+		<LastName>本社 寺門</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>243</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2142</id>
+		<FirstName>ibarakichubu</FirstName>
+		<LastName>農水省 茨城中部(代)</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0292773011</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2143</id>
+		<FirstName>ibarakikencho</FirstName>
+		<LastName>茨城県庁</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0293011111</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2144</id>
+		<FirstName>ibarakikendobokubu</FirstName>
+		<LastName>茨城県土木部検査指導課</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0293014370</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2145</id>
+		<FirstName>ibarakikengijutsu</FirstName>
+		<LastName>茨城県技術公社 県西支部</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0296247335</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2146</id>
+		<FirstName>ibarakikenkaihatsu</FirstName>
+		<LastName>茨城県開発公社(代)</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0293017000</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2147</id>
+		<FirstName>ibarakikenkensetsu</FirstName>
+		<LastName>茨建コン</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0292913517</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2148</id>
+		<FirstName>ibarakikenkigyo</FirstName>
+		<LastName>茨城県企業局施設課</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0293014978</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2149</id>
+		<FirstName>ibarakikensokuryo</FirstName>
+		<LastName>茨測協</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0292548200</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2150</id>
+		<FirstName>ibarakitoyopet</FirstName>
+		<LastName>茨城トヨペット　常総石下店</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0297420567</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2151</id>
+		<FirstName>ibarakitoyopet</FirstName>
+		<LastName>茨城トヨペット　松村　携帯</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>08067209698</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2152</id>
+		<FirstName>ibarakitoyota</FirstName>
+		<LastName>茨城トヨタ　石下店</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0297420399</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2153</id>
+		<FirstName>ibarakitoyota</FirstName>
+		<LastName>茨城トヨタ　国分　携帯</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>08059894641</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2154</id>
+		<FirstName>iida</FirstName>
+		<LastName>飯田</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>312</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2155</id>
+		<FirstName>iidasokuki</FirstName>
+		<LastName>飯田測器</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0299268327</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2156</id>
+		<FirstName>iijima</FirstName>
+		<LastName>飯島</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>231</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2157</id>
+		<FirstName>inashikitochikairy</FirstName>
+		<LastName>稲敷土地改良契約用地課</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0298922411</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2158</id>
+		<FirstName>ishigeekikantetsu</FirstName>
+		<LastName>石下駅（関東鉄道）</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0297422752</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2159</id>
+		<FirstName>ishigeyubinkyoku</FirstName>
+		<LastName>石下郵便局</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0297422511</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2160</id>
+		<FirstName>itakodoboku</FirstName>
+		<LastName>潮来土木事務所総務課</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0299623724</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2161</id>
+		<FirstName>jinji1</FirstName>
+		<LastName>人事1</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>233</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2162</id>
+		<FirstName>jobanchikakogyo</FirstName>
+		<LastName>常磐地下工業 水戸本社</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0294228096</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2163</id>
+		<FirstName>johoshisutemu</FirstName>
+		<LastName>情報システム</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>225</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2164</id>
+		<FirstName>joiyfulhonda moriy</FirstName>
+		<LastName>ジョイフル本田　守谷店</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0297488020</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2165</id>
+		<FirstName>josokeisatsusho</FirstName>
+		<LastName>常総警察署</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0297220110</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2166</id>
+		<FirstName>josokoji</FirstName>
+		<LastName>常総工事事務所契約用地課</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0297422621</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2167</id>
+		<FirstName>josokokudo</FirstName>
+		<LastName>国交省 常総国道 総務課</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0298262040</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2168</id>
+		<FirstName>jososhishiruba</FirstName>
+		<LastName>常総市シルバー人材センター</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0297385808</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2169</id>
+		<FirstName>jososhiyakusho</FirstName>
+		<LastName>常総市役所</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0297232111</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2170</id>
+		<FirstName>jososhiyakusho</FirstName>
+		<LastName>常総市役所　石下庁舎</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0297423111</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2171</id>
+		<FirstName>jososhiyakusho</FirstName>
+		<LastName>常総市役所　道路維持課</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0297306200</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2172</id>
+		<FirstName>joyoginko</FirstName>
+		<LastName>常陽銀行　石下支店(直通)</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0297422122</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2173</id>
+		<FirstName>kagayakizeirishi</FirstName>
+		<LastName>かがやき税理士法人　山下</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>08094077417</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2174</id>
+		<FirstName>kagayakizeirishiho</FirstName>
+		<LastName>かがやき税理士法人 水戸事務所</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0293041800</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2175</id>
+		<FirstName>kaigishitsu1-1</FirstName>
+		<LastName>会議室1-1</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>201</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2176</id>
+		<FirstName>kaigishitsu1-2</FirstName>
+		<LastName>会議室1-2</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>202</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2177</id>
+		<FirstName>kanagawakenkendo</FirstName>
+		<LastName>神奈川県県土整備局技術管理課</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0452101111</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2178</id>
+		<FirstName>kanagawakenkendo</FirstName>
+		<LastName>神奈川県県土整備局技術管理課</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0452106116</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2179</id>
+		<FirstName>kanri1</FirstName>
+		<LastName>管理1</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>223</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2180</id>
+		<FirstName>kanri2</FirstName>
+		<LastName>管理2</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>224</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2181</id>
+		<FirstName>kanribucho</FirstName>
+		<LastName>管理部長</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>220</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2182</id>
+		<FirstName>kasumigaurakasen</FirstName>
+		<LastName>国交省 霞河川 経理課</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0299632412</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2183</id>
+		<FirstName>kasumigaurakasen</FirstName>
+		<LastName>国交省 霞河川 湖沼環境課</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0299632417</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2184</id>
+		<FirstName>kasumigaurakasen</FirstName>
+		<LastName>国交省 霞河川 占用調整課</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0299632419</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2185</id>
+		<FirstName>kasumigauratochi</FirstName>
+		<LastName>霞ヶ浦土地改良区</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0296430885</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2186</id>
+		<FirstName>keihinkasen</FirstName>
+		<LastName>国交省 京浜 調査課</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0455034008</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2187</id>
+		<FirstName>keihinkasen</FirstName>
+		<LastName>国交省 京浜 防災情報課</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0455034018</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2188</id>
+		<FirstName>keihinkasen</FirstName>
+		<LastName>国交省 京浜 経理課</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0455034002</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2189</id>
+		<FirstName>keiri1</FirstName>
+		<LastName>経理1</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>232</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2190</id>
+		<FirstName>kempokunorinji</FirstName>
+		<LastName>県北農林事務所事業調整課</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0294803350</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2191</id>
+		<FirstName>kennannorin</FirstName>
+		<LastName>県南農林事務所事業調整課</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0298225045</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2192</id>
+		<FirstName>kenohnorin</FirstName>
+		<LastName>県央農林事務所総務課</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0292213012</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2193</id>
+		<FirstName>kenseinorin</FirstName>
+		<LastName>県西農林 工務課</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0296249244</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2194</id>
+		<FirstName>kenseinorin</FirstName>
+		<LastName>県西農林 事業調整課</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0296249241</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2195</id>
+		<FirstName>kigyokyokukennan</FirstName>
+		<LastName>企業局県南水道事務所(代)</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0298213945</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2196</id>
+		<FirstName>kigyokyokukensei</FirstName>
+		<LastName>企業局県西水道事務所(代)</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0296377402</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2197</id>
+		<FirstName>kimurayoshitaka</FirstName>
+		<LastName>木村（善）</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>831</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2198</id>
+		<FirstName>king ishige</FirstName>
+		<LastName>ＫＩＮＧ　石下店</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0297420712</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2199</id>
+		<FirstName>kobayashi</FirstName>
+		<LastName>小林</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>422</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2200</id>
+		<FirstName>kobayashitakashi</FirstName>
+		<LastName>小林　孝至　携帯</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>08084521583</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2201</id>
+		<FirstName>koei</FirstName>
+		<LastName>(有)巧栄</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0273636535</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2202</id>
+		<FirstName>kogashiyakusho</FirstName>
+		<LastName>古河市役所　三和庁舎</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0280761511</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2203</id>
+		<FirstName>kogashiyakusho</FirstName>
+		<LastName>古河市役所　本庁舎　</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0280923111</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2204</id>
+		<FirstName>kogashiyakusho</FirstName>
+		<LastName>古河市役所　古河庁舎</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0280225111</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2205</id>
+		<FirstName>kumagayakatsuhiko </FirstName>
+		<LastName>熊谷　克彦　携帯</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>09046256548</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2206</id>
+		<FirstName>kuroneko syuhai</FirstName>
+		<LastName>クロネコ宅急便(集配直通)　</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>09061610511</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2207</id>
+		<FirstName>kyodokumiaijiaiesu</FirstName>
+		<LastName>協同組合GISいばらき（ミカミ内）</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0293095700</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2208</id>
+		<FirstName>kyoseradocument</FirstName>
+		<LastName>京セラドキュメントソリューションズ　</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>012093166</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2209</id>
+		<FirstName>leopalace tsukuba</FirstName>
+		<LastName>レオパレスセンターつくば店</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0295896331</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2210</id>
+		<FirstName>mikami</FirstName>
+		<LastName>ミカミ</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0292571234</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2211</id>
+		<FirstName>mito ishitsuka</FirstName>
+		<LastName>水戸 石塚</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>611</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2212</id>
+		<FirstName>mito mtg room</FirstName>
+		<LastName>水戸 会議室</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>601</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2213</id>
+		<FirstName>mito terakado</FirstName>
+		<LastName>水戸 寺門</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>612</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2214</id>
+		<FirstName>mitodoboku</FirstName>
+		<LastName>水戸土木事務所契約課</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0292254042</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2215</id>
+		<FirstName>nagatsuka</FirstName>
+		<LastName>長塚</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>311</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2216</id>
+		<FirstName>nakajimaSA</FirstName>
+		<LastName>中島SA</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>212</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2217</id>
+		<FirstName>nakajimahidetaka</FirstName>
+		<LastName>中島　英敬　携帯</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>07021596327</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2218</id>
+		<FirstName>nakajimahimasaki  </FirstName>
+		<LastName>中島　正規　携帯</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>09035146585</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2219</id>
+		<FirstName>nakajimahirotaka  </FirstName>
+		<LastName>中島　博敬　携帯</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>09015519779</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2220</id>
+		<FirstName>ochimokuzai</FirstName>
+		<LastName>大内木材</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0298211654</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2221</id>
+		<FirstName>office busters</FirstName>
+		<LastName>オフィスバスターズ千葉店</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0433067030</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2222</id>
+		<FirstName>office busters</FirstName>
+		<LastName>オフィスバスターズつくば店</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0298865841</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2223</id>
+		<FirstName>okagotochikairyo</FirstName>
+		<LastName>岡郷土地改良区</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0280981059</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2224</id>
+		<FirstName>omizukei</FirstName>
+		<LastName>大水　圭　携帯</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>08025716648</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2225</id>
+		<FirstName>otanimasato</FirstName>
+		<LastName>大谷　正人　携帯</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>08067599508</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2226</id>
+		<FirstName>purintashitsu</FirstName>
+		<LastName>プリンタ室</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>205</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2227</id>
+		<FirstName>rengokaikennan</FirstName>
+		<LastName>連合会　県南事務所(代)</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0298232354</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2228</id>
+		<FirstName>rengokaikensei</FirstName>
+		<LastName>連合会　県西事務所(代)</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0296245851</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2229</id>
+		<FirstName>richojapan shuri</FirstName>
+		<LastName>リコージャパン　修理受付</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0120892111</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2230</id>
+		<FirstName>richojapan tsukubi</FirstName>
+		<LastName>リコージャパン 　つくば営業部</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>05035344380</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2231</id>
+		<FirstName>rifuresshushitsu</FirstName>
+		<LastName>リフレッシュ室</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>203</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2232</id>
+		<FirstName>rokkonorin</FirstName>
+		<LastName>鹿行農林事務所 総務課</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0291336284</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2233</id>
+		<FirstName>ryugasakikoji</FirstName>
+		<LastName>竜ヶ崎工事事務所契約課</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0297651757</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2234</id>
+		<FirstName>ryuikigesuido</FirstName>
+		<LastName>茨城県流域下水道(代)</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0298231621</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2235</id>
+		<FirstName>sabashitsu</FirstName>
+		<LastName>サーバー室</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>206</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2236</id>
+		<FirstName>sagawak kinkyu</FirstName>
+		<LastName>佐川急便コールセンター</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0120288817</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2237</id>
+		<FirstName>saikosaibansyo</FirstName>
+		<LastName>最高裁判所事務総局経理局営繕課</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0342335413</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2238</id>
+		<FirstName>saitama mtg room</FirstName>
+		<LastName>埼玉 会議室</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>501</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2239</id>
+		<FirstName>saito</FirstName>
+		<LastName>齋藤</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>832</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2240</id>
+		<FirstName>sakaikoji</FirstName>
+		<LastName>境工事事務所契約用地課</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0280871231</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2241</id>
+		<FirstName>sakaitochikairyo</FirstName>
+		<LastName>境土地改良契約用地課</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0280870822</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2242</id>
+		<FirstName>sanadayasuo</FirstName>
+		<LastName>眞田　康穂　携帯</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>09046674140</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2243</id>
+		<FirstName>sekineshigeo</FirstName>
+		<LastName>関根　成男　携帯</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>08067599407</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2244</id>
+		<FirstName>sekkei car6498</FirstName>
+		<LastName>設計部サクシード【6498】</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>09045838639</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2245</id>
+		<FirstName>sekkei car8176</FirstName>
+		<LastName>設計部ヴォクシー【8176】</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>09045838470</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2246</id>
+		<FirstName>sekkei car9938</FirstName>
+		<LastName>設計部マークX【9938】</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>09045838624</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2247</id>
+		<FirstName>sekkei1</FirstName>
+		<LastName>設計1</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>424</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2248</id>
+		<FirstName>sekkei2</FirstName>
+		<LastName>設計2</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>425</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2249</id>
+		<FirstName>sekkei3</FirstName>
+		<LastName>設計3</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>426</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2250</id>
+		<FirstName>sekkei4</FirstName>
+		<LastName>設計4</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>427</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2251</id>
+		<FirstName>sekkei5</FirstName>
+		<LastName>設計5</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>428</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2252</id>
+		<FirstName>sekkei6</FirstName>
+		<LastName>設計6</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>429</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2253</id>
+		<FirstName>sekkei7</FirstName>
+		<LastName>設計7</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>430</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2254</id>
+		<FirstName>sekkei8</FirstName>
+		<LastName>設計8</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>431</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2255</id>
+		<FirstName>sekkei9</FirstName>
+		<LastName>設計9</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>432</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2256</id>
+		<FirstName>semmu</FirstName>
+		<LastName>専務</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>230</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2257</id>
+		<FirstName>shachoshitsu</FirstName>
+		<LastName>社長室</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>210</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2258</id>
+		<FirstName>shibataryosuke</FirstName>
+		<LastName>柴田（亮）</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>821</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2259</id>
+		<FirstName>shimodatekasen</FirstName>
+		<LastName>国交省 下館 経理課</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0296252163</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2260</id>
+		<FirstName>shimodatekasen</FirstName>
+		<LastName>国交省 下館 占用調整課</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0296252151</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2261</id>
+		<FirstName>shimodatekasen</FirstName>
+		<LastName>国交省 下館 調査課</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0296252171</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2262</id>
+		<FirstName>shimodatekasen</FirstName>
+		<LastName>国交省 下館 計画課</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0296252173</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2263</id>
+		<FirstName>shimodateshakai</FirstName>
+		<LastName>下館社会保険事務所</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0296224591</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2264</id>
+		<FirstName>shimodatezeimusho</FirstName>
+		<LastName>下館税務署</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0296242121</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2265</id>
+		<FirstName>shimotsumakeisatsu</FirstName>
+		<LastName>下妻警察署</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0296430110</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2266</id>
+		<FirstName>shimotsumashi</FirstName>
+		<LastName>下妻市役所</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0296432111</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2267</id>
+		<FirstName>shindo</FirstName>
+		<LastName>進藤</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>313</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2268</id>
+		<FirstName>shineigiken</FirstName>
+		<LastName>伸栄技研</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0453218231</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2269</id>
+		<FirstName>shomu1</FirstName>
+		<LastName>庶務1</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>222</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2270</id>
+		<FirstName>sokkishaibaraki</FirstName>
+		<LastName>測機社茨城</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0298226669</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2271</id>
+		<FirstName>sokuryo car 559</FirstName>
+		<LastName>測量部サクシード【7559】</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>09045838445</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2272</id>
+		<FirstName>sokuryo car236</FirstName>
+		<LastName>測量部ハイエース【236】</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>09045838286</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2273</id>
+		<FirstName>sokuryo car5245</FirstName>
+		<LastName>測量部ハイエース【5245】</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>09045838321</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2274</id>
+		<FirstName>sokuryo car5246</FirstName>
+		<LastName>測量部サクシード【5246】</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>09045838209</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2275</id>
+		<FirstName>sokuryo car686</FirstName>
+		<LastName>測量部サクシード【6866】</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>09045838362</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2276</id>
+		<FirstName>sokuryo car7461</FirstName>
+		<LastName>測量部プロボックス【7461】</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>09045838441</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2277</id>
+		<FirstName>sokuryo car8281</FirstName>
+		<LastName>測量部サクシード【8281】</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>09045838665</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2278</id>
+		<FirstName>sokuryo1</FirstName>
+		<LastName>測量1</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>321</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2279</id>
+		<FirstName>sokuryo2</FirstName>
+		<LastName>測量2</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>322</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2280</id>
+		<FirstName>sokuryo3</FirstName>
+		<LastName>測量3</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>331</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2281</id>
+		<FirstName>sokuryo4</FirstName>
+		<LastName>測量4</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>332</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2282</id>
+		<FirstName>sokuryo5</FirstName>
+		<LastName>測量5</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>333</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2283</id>
+		<FirstName>sokuryo6</FirstName>
+		<LastName>測量6</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>334</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2284</id>
+		<FirstName>sokuryo7</FirstName>
+		<LastName>測量7</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>335</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2285</id>
+		<FirstName>somu1</FirstName>
+		<LastName>総務1</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>221</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2286</id>
+		<FirstName>stc7f1</FirstName>
+		<LastName>STC7F1</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>814</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2287</id>
+		<FirstName>stc7f2</FirstName>
+		<LastName>STC7F2</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>815</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2288</id>
+		<FirstName>sugawarayosuke</FirstName>
+		<LastName>菅原　洋佑　携帯</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>07040210830</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2289</id>
+		<FirstName>suikoenjiniaringu</FirstName>
+		<LastName>水工エンジニアリング</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0292973500</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2290</id>
+		<FirstName>suzukiseni</FirstName>
+		<LastName>スズキ繊維</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0292732323</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2291</id>
+		<FirstName>tagoyoichi</FirstName>
+		<LastName>田子　洋一　携帯</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>08087352664</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2292</id>
+		<FirstName>tagoyoichi</FirstName>
+		<LastName>田子</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>810</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2293</id>
+		<FirstName>takahagidoboku</FirstName>
+		<LastName>高萩工事事務所契約用地課</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0293222175</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2294</id>
+		<FirstName>takahagirie</FirstName>
+		<LastName>高萩　理恵　携帯</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>08021635721</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2295</id>
+		<FirstName>takahagitorikairyo</FirstName>
+		<LastName>高萩土地改良事務所(代)</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0293222379</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2296</id>
+		<FirstName>takanashi</FirstName>
+		<LastName>高梨</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>421</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2297</id>
+		<FirstName>takasakikasen</FirstName>
+		<LastName>国交省 高崎河川 経理課</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0273456031</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2298</id>
+		<FirstName>takashima</FirstName>
+		<LastName>髙島</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>241</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2299</id>
+		<FirstName>takashimaatsushi</FirstName>
+		<LastName>高島　敦史　携帯</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>09032015041</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2300</id>
+		<FirstName>takashimaatsushi</FirstName>
+		<LastName>高島　敦史　携帯</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>07041478276</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2301</id>
+		<FirstName>tochiharahidenori</FirstName>
+		<LastName>栃原　秀紀　携帯</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>09045843240</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2302</id>
+		<FirstName>tohoku car6339</FirstName>
+		<LastName>東北支社プリウス【6339】</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>09045838742</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2303</id>
+		<FirstName>tokaisekkei</FirstName>
+		<LastName>東海設計</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0292857575</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2304</id>
+		<FirstName>tokyokokudo</FirstName>
+		<LastName>国交省 東京国道 経理課</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0335129091</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2305</id>
+		<FirstName>tonegawajoryukasen</FirstName>
+		<LastName>国交省 利根上 経理課</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0480523953</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2306</id>
+		<FirstName>tonegawajoryukasen</FirstName>
+		<LastName>国交省 利根上 工務第一課</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0480523955</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2307</id>
+		<FirstName>tonegawajoryukasen</FirstName>
+		<LastName>国交省 利根上 工務第二課</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0480529461</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2308</id>
+		<FirstName>tonegawajoryukasen</FirstName>
+		<LastName>国交省 利根上 沿線整備課</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0480523914</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2309</id>
+		<FirstName>tonegawajoryukasen</FirstName>
+		<LastName>国交省 利根上 防災対策課</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0480523956</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2310</id>
+		<FirstName>tonegawajoryukasen</FirstName>
+		<LastName>国交省 利根上 占用調整課</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0480523960</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2311</id>
+		<FirstName>tonegawajoryukasen</FirstName>
+		<LastName>国交省 利根上 管理課</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0480523957</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2312</id>
+		<FirstName>tonegawakaryu</FirstName>
+		<LastName>水資源 利根下総合(代)</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0299793311</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2313</id>
+		<FirstName>tonegawakaryukasen</FirstName>
+		<LastName>国交省 利根下 経理課</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0478526362</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2314</id>
+		<FirstName>tonegawakaryukasen</FirstName>
+		<LastName>国交省 利根下 計画課</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0478526370</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2315</id>
+		<FirstName>tonegawakaryukasen</FirstName>
+		<LastName>国交省 利根下 管理課</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0478526368</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2316</id>
+		<FirstName>tonegawakaryukasen</FirstName>
+		<LastName>国交省 利根下 調査課</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0478526366</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2317</id>
+		<FirstName>tonegawakaryukasen</FirstName>
+		<LastName>国交省 利根下 工務課</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0478526364</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2318</id>
+		<FirstName>tonegawasuikei</FirstName>
+		<LastName>農水省 利根調 技術調整課</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0471316953</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2319</id>
+		<FirstName>toridekeisatsusho</FirstName>
+		<LastName>取手警察署</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0297770110</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2320</id>
+		<FirstName>torideshiyakusho</FirstName>
+		<LastName>取手市役所</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0297742141</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2321</id>
+		<FirstName>toyoshimanobuhiro </FirstName>
+		<LastName>豊島　信拓　携帯</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>09018876654</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2322</id>
+		<FirstName>tsuchiuradoboku</FirstName>
+		<LastName>土浦土木事務所契約課</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0298224341</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2323</id>
+		<FirstName>tsuchiuradoboku</FirstName>
+		<LastName>土浦土木ﾂｸﾊﾞ支所事業調整課</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0298399988</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2324</id>
+		<FirstName>tsuchiuradoboku</FirstName>
+		<LastName>土浦土木ﾂｸﾊﾞ支所ﾂｸﾊﾞ地区工務</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0298399769</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2325</id>
+		<FirstName>tsuchiuramokuzai</FirstName>
+		<LastName>土浦木材</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0298226674</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2326</id>
+		<FirstName>tsukubaginko</FirstName>
+		<LastName>筑波銀行　石下支店</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0297422331</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2327</id>
+		<FirstName>tsukubaginko</FirstName>
+		<LastName>筑波銀行　入金確認</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0367330060</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2328</id>
+		<FirstName>tsukubarisu</FirstName>
+		<LastName>つくばリース</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0298555580</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2329</id>
+		<FirstName>tsukubashiyakusho</FirstName>
+		<LastName>つくば市役所</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0298831111</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2330</id>
+		<FirstName>tsurumieSA</FirstName>
+		<LastName>鶴見SA</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>213</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2331</id>
+		<FirstName>tsurumimasayuki</FirstName>
+		<LastName>鶴見　政幸　携帯</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>09083154105</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2332</id>
+		<FirstName>utsunomiyakokudo</FirstName>
+		<LastName>国交省 宇都宮 経理課</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0286382182</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2333</id>
+		<FirstName>wagu GIAP</FirstName>
+		<LastName>和具（GIAP）</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>511</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>47</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2334</id>
+		<FirstName>watanabefukushacho</FirstName>
+		<LastName>渡辺副社長</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>211</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>46</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2335</id>
+		<FirstName>watarasegawakasen</FirstName>
+		<LastName>国交省 渡良瀬 工務課</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0284735554</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2336</id>
+		<FirstName>yachiyomachiyakuba</FirstName>
+		<LastName>八千代町役場</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0296481111</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2337</id>
+		<FirstName>yamashitachihiro</FirstName>
+		<LastName>山下　千浩　携帯</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>08018853654</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2338</id>
+		<FirstName>yoshidashakaihoken</FirstName>
+		<LastName>吉田社会保険労務士事務所</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0280875615</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2339</id>
+		<FirstName>yukishinyokinkoish</FirstName>
+		<LastName>結城信用金庫　石下支店</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0297421200</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+	<Contact>
+		<id>2340</id>
+		<FirstName>yukishiyakusho</FirstName>
+		<LastName>結城市役所</LastName>
+		<Frequent>0</Frequent>
+		<Phone type="Work">
+			<phonenumber>0296321111</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Group>45</Group>
+		<Primary>0</Primary>
+	</Contact>
+</AddressBook>
+
